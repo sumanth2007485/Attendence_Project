@@ -1,4 +1,4 @@
-export default function MyQR() {
+export default function Attendance() {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <h1 className="text-4xl font-bold">
